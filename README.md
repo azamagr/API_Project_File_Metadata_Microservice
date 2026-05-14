@@ -18,7 +18,7 @@ It allows users to upload a file and returns metadata such as:
 ## 📌 Project Objective
 
 Build a File Metadata Microservice similar to:
-https://file-metadata-microservice.freecodecamp.rocks
+[https://file-metadata-microservice.freecodecamp.rocks](https://file-metadata-microservice.freecodecamp.rocks)
 
 The main purpose is to handle file uploads and return file information in JSON format.
 
